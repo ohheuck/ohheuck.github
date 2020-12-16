@@ -1,7 +1,7 @@
  remote_theme :       hydecorp/hydejack
 
 url                      : "https://ohheuck.github.io" # the base hostname & protocol for your site e.g. "https://hydejack.com"
-baseurl                  : "" 
+baseurl                  : "https://hydejack.com" 
 lang:                  en
 title:                 Hydejack
 logo:                  /assets/icons/icon.png
